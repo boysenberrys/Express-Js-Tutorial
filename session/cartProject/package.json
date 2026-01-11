@@ -1,0 +1,18 @@
+{
+  "name": "cartproject",
+  "version": "1.0.0",
+  "description": "cart-session-project/\r │\r ├── server.js\r ├── package.json\r │\r ├── models/\r │   └── Product.js\r │\r └── public/\r     ├── index.html\r     ├── style.css\r     └── script.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-session": "^1.18.2",
+    "mongoose": "^9.1.2"
+  }
+}
