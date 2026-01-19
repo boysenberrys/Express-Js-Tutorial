@@ -1,0 +1,3 @@
+2025November14	10:52:09	a698a0d4-f36e-4911-9969-a2bc8031d305	Log event emmitted
+2025November14	10:52:17	f60a235e-e0b4-4b95-8d26-77300efe0896	Log event emmitted
+2025-November-14	10:52:54	ffe97d01-7a1a-431c-835b-b17b2acb7b55	Log event emmitted
